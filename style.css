@@ -177,8 +177,8 @@ h2{
 }
 @media (max-width: 320px) {
   #rateBox, #thankBox  {
-    width: 90%;
-  padding-inline: 5%;
+    width: 96%;
+  padding-inline: 4%;
   padding-block: 6%;
   margin-top: 30%;
 }
